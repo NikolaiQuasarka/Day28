@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepView", "RepView\RepView.csproj", "{8C4ED7F2-ADF0-4312-BC2C-7CFF313A304D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C4ED7F2-ADF0-4312-BC2C-7CFF313A304D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C4ED7F2-ADF0-4312-BC2C-7CFF313A304D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C4ED7F2-ADF0-4312-BC2C-7CFF313A304D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C4ED7F2-ADF0-4312-BC2C-7CFF313A304D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D994A00F-F680-4C90-B3D2-447FCD8809A1}
+	EndGlobalSection
+EndGlobal
